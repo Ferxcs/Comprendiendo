@@ -1,0 +1,19 @@
+# Ignorar archivos compilados
+*.class
+
+# Ignorar directorios de salida de compilación
+/bin/
+/out/
+/target/
+
+# Ignorar archivos temporales y de ejecución
+*.log
+.lock
+.tmp
+
+# Ignorar archivos de configuración de IDE
+.idea/
+
+# Ignorar archivos ocultos del sistema
+.DS_Store
+Thumbs.db
