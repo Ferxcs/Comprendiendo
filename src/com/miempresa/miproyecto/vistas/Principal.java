@@ -1,3 +1,7 @@
+package com.miempresa.miproyecto.vistas;
+
+import com.miempresa.miproyecto.Persona;
+
 public class Principal {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");

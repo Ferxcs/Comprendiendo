@@ -14,4 +14,4 @@ comprendiendo/
     ├── principal.java
     └── persona.java
 
-y bueno hasta aquí funciona todo correctamente sin errores pero, el problema es que debo de crear package y ademas debo de colocar modificadores de acceso (public, private, default?, void?), cosa que no pide si es que estos dos archivos siguen dentro de la carpeta **src**. 
+y bueno hasta aquí funciona todo correctamente sin errores pero, el problema es que debo de crear package y ademas debo de colocar **modificadores de acceso** (public, private, default?, void?), cosa que no pide si es que estos dos archivos siguen dentro de la carpeta **src**. 
